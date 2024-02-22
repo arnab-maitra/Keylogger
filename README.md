@@ -29,3 +29,7 @@ Before running the script, make sure to install the required libraries:
 1. pynput: Used for reading keystrokes.
    
 2. logging: Used for logging keystrokes into a file.
+
+## Concept
+
+The keylogger works by creating an instance of a Listener from the pynput library. The listener is set up to call a function whenever a key is pressed. The function then logs the pressed key into the specified log file.
