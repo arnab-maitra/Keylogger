@@ -45,3 +45,6 @@ Before running the script, make sure to install the required libraries:
 3. The script will start recording keystrokes and logging them into the keylog.txt file.
 
 4. To stop the keylogger, manually terminate the script.
+
+## Sample Input & Output
+
