@@ -50,3 +50,8 @@ Before running the script, make sure to install the required libraries:
 
 ![Screenshot 2024-02-22 001758](https://github.com/arnab-maitra/Keylogger/assets/88264132/1cca1f6d-d64b-4fe9-9b99-736107506358)
 <b><p align="center">Entered sample text in the IntelliJ terminal while the keylogger is active.</p></b>
+![Screenshot 2024-02-22 001820](https://github.com/arnab-maitra/Keylogger/assets/88264132/807205c1-a643-4f3e-bad0-888a4643f2a8)
+![Screenshot 2024-02-22 001843](https://github.com/arnab-maitra/Keylogger/assets/88264132/1a867c64-5fbe-45d7-b42e-81214aadb194)
+![Screenshot 2024-02-22 001900](https://github.com/arnab-maitra/Keylogger/assets/88264132/fb873368-394f-4ad7-a8ea-b9401e261924)
+
+
