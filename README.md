@@ -40,7 +40,7 @@ Before running the script, make sure to install the required libraries:
    ```
    python keylogger.py
 
-2.  
+2. Type something on the screen, either by directly inputting text into the terminal or a text editor file or by typing in a textbox within Google Chrome.
 
 3. The script will start recording keystrokes and logging them into the keylog.txt file.
 
