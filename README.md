@@ -36,9 +36,11 @@ Before running the script, make sure to install the required libraries:
 
 ## Usage
 
-1. Run the script: python keylogger.py
+1. Run the script:
+   ```
+   python keylogger.py
 
-2. 
+2.  
 
 3. The script will start recording keystrokes and logging them into the keylog.txt file.
 
