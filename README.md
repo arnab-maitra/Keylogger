@@ -23,7 +23,7 @@ However, in the hands of malicious actors, keyloggers can present severe securit
 
 To safeguard against keyloggers, individuals and organizations should adopt robust cybersecurity practices. This includes using reliable security software, maintaining up-to-date software and systems, exercising caution regarding phishing attempts, employing secure password practices, and regularly monitoring and auditing system logs to detect any suspicious activities.
 
-## Requirements
+## Prerequisites
 Before running the script, make sure to install the required libraries:
 
 1. pynput: Used for reading keystrokes.
