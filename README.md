@@ -34,9 +34,11 @@ Before running the script, make sure to install the required libraries:
    
 2. logging: Used for logging keystrokes into a file.
 
-Usage
+## Usage
 
 1. Run the script: python keylogger.py
+
+2. 
 
 3. The script will start recording keystrokes and logging them into the keylog.txt file.
 
