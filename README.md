@@ -4,4 +4,7 @@
 The Keylogger captures and logs keystrokes on a target system. It utilizes the pynput library to monitor keyboard input and the logging library to record the keystrokes into a log file.
 
 ## Requirements
+Before running the script, make sure to install the required libraries:
 
+pynput: Used for reading keystrokes.
+logging: Used for logging keystrokes into a file.
