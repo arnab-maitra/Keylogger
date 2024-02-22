@@ -26,5 +26,5 @@ To safeguard against keyloggers, individuals and organizations should adopt robu
 ## Requirements
 Before running the script, make sure to install the required libraries:
 
-pynput: Used for reading keystrokes.
-logging: Used for logging keystrokes into a file.
+1. pynput: Used for reading keystrokes.
+2. logging: Used for logging keystrokes into a file.
