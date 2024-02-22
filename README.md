@@ -21,8 +21,6 @@ However, in the hands of malicious actors, keyloggers can present severe securit
 
 4. **Surveillance:** Covert monitoring and recording of user activities without their knowledge for malicious purposes.
 
-To safeguard against keyloggers, individuals and organizations should adopt robust cybersecurity practices. This includes using reliable security software, maintaining up-to-date software and systems, exercising caution regarding phishing attempts, employing secure password practices, and regularly monitoring and auditing system logs to detect any suspicious activities.
-
 ## Concept
 
 The keylogger works by creating an instance of a Listener from the pynput library. The listener is set up to call a function whenever a key is pressed. The function then logs the pressed key into the specified log file.
@@ -57,7 +55,3 @@ Before running the script, make sure to install the required libraries:
 ![Screenshot 2024-02-22 001843](https://github.com/arnab-maitra/Keylogger/assets/88264132/a179ea84-f5e6-4fd7-831f-57cc4209a13f)
 ![Screenshot 2024-02-22 001900](https://github.com/arnab-maitra/Keylogger/assets/88264132/4c009ea2-d950-499d-8bbf-b3335fc35f78)
 <b><p align="center">Keystrokes recorded by the keylogger program and captured input stored in the log file (keylog.txt).</p></b>
-
-
-
-
