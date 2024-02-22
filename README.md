@@ -48,3 +48,5 @@ Before running the script, make sure to install the required libraries:
 
 ## Sample Input & Output
 
+![Screenshot 2024-02-22 001758](https://github.com/arnab-maitra/Keylogger/assets/88264132/1cca1f6d-d64b-4fe9-9b99-736107506358)
+<b><p align="center">Entered sample text in the IntelliJ terminal while the keylogger is active.</p></b>
